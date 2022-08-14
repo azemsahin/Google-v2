@@ -1,0 +1,23 @@
+body{
+    background-color: #202124 ;
+    font-family: arial,sans-serif;   
+    font-size: 12px;
+}
+nav div{
+    padding: 6px;
+    margin: 4px;
+}
+
+.navlink:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.navimg:hover{
+    background-color: #515151 ;
+    border-radius: 50%;
+   
+}
+.marg{
+   padding:10px;
+}
